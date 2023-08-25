@@ -1,0 +1,3 @@
+no Console do DevTools:
+
+document.querySelector('input[type=tel]');
